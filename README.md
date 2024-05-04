@@ -16,7 +16,7 @@ MangoSDL is designed to streamline the process of setting up SDL projects in Cod
 
 To use MangoSDL, simply download the executable from the release section and run it on your system.
 
-[Download MangoSDL v1.0](https://github.com/ashrafulislambd/MangoSDL/releases/download/v1.0.1/MangoSDL.exe)
+[Download MangoSDL v1.1](https://github.com/ashrafulislambd/MangoSDL/releases/download/v1.1.0/MangoSDL.exe)
 
 ## How to Use
 
